@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisogwuche
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning html,css,javascript
+- 👀 I’m interested in software engineering and Data Science
+- 🌱 I’m skilled in java, javaScript, Spring framework, MongoDb, React.js
 - 💞️ I’m looking to collaborate on any software development
 - 📫 How to reach me ogwuchechris@gmail.com
 
